@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#page1 {
+    height: 700px;
+    width: 100%;
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#page2 {
+    height: 700px;
+    width: 100%;
+    background-color: rgba(9, 151, 202, 0.495);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#page3 {
+    height: 700px;
+    width: 100%;
+    background-color: rgba(49, 62, 3, 0.281);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#box {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
